@@ -1,0 +1,6 @@
+*.pyc
+
+data/experiments/*/reconstruction/*
+data/experiments/*/*.sh
+*.DS_Store
+code/*.sh

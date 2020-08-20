@@ -1,0 +1,6 @@
+*.npy
+experiments/*
+results/*
+example_script_outputs/*
+*.pkl
+cache/*
