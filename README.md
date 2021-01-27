@@ -1,9 +1,4 @@
 # Deepfake Attribution
-[Paper](https://arxiv.org/abs/2008.09194)
-
-**Not My Deepfake: Towards Plausible Deniability for Machine-Generated Media**
-
-[Baiwu Zhang](https://bwuzhang.github.io/), Jin Peng Zhou, [Ilia Shumailov](https://www.cl.cam.ac.uk/~is410/), [Nicolas Papernot](https://www.papernot.fr/)
 
 This demo codebase is built upon official implementations of [ProgressiveGan](https://github.com/tkarras/progressive_growing_of_gans), [Stylegan](https://github.com/NVlabs/stylegan), and [Stylegan2](https://github.com/NVlabs/stylegan2).
 
